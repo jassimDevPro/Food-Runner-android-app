@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562059983348",
+    "project_id": "the-food-runner-565fb",
+    "storage_bucket": "the-food-runner-565fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562059983348:android:982fc8d56ae9fee40b21a1",
+        "android_client_info": {
+          "package_name": "com.example.thefoodrunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562059983348-r1l6bvou8agbfd3q09g9r22q1jlu0f0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsh8GSWOhJrMDrc_IA5uy2bl9Gdeh7ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562059983348-r1l6bvou8agbfd3q09g9r22q1jlu0f0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
